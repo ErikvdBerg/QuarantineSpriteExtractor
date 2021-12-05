@@ -4,7 +4,7 @@
 Extract sprites from .SPR files to .ppm or .png images. 
 
 Github: https://github.com/ErikvdBerg/QuarantineSpriteExtractor
-Homepage: https://www.net-developer.nl/quarantine-sprite-extractor
+Homepage: https://www.net-developer.nl/quarantine-sprite-extractor.html
 
 Based on the work of Colin Bourassa: https://github.com/colinbourassa/quarantine-decode
 and Stephen Bogner: https://www.codeproject.com/Articles/18968/PixelMap-Class-and-PNM-Image-Viewer
