@@ -1,4 +1,6 @@
-﻿.NET based sprite extractor for the 1994 game "Quarantine" from GameTek/Imagexcel.
+﻿# Quarantine Sprite Extractor
+
+.NET based sprite extractor for the 1994 pc game "Quarantine" from GameTek/Imagexcel.
 Extract sprites from .SPR files to .ppm or .png images. 
 
 Github: https://github.com/ErikvdBerg/QuarantineSpriteExtractor
