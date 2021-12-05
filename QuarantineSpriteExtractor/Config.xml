@@ -1,0 +1,148 @@
+﻿<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <QuarantineInstallationFolder>E:\Quarantine\C\Q</QuarantineInstallationFolder>
+  
+  <OutputFolder>E:\QuarantineSprites</OutputFolder>
+
+  <!-- Set to 1 if black background of png's should be made transparent. Only works with png. -->
+  <BackgroundTransparent>0</BackgroundTransparent>
+  
+  <!-- Set to ppm or png. -->
+  <OutputFileType>png</OutputFileType>
+
+  <DefaultPalette>FLOOR.IMG</DefaultPalette>
+  
+  <PaletteMappings>
+    <Palette>
+      <src>WFLOOR.IMG</src>
+      <Sprites>
+        <string>WWALL1.SPR</string>
+        <string>WWALL2.SPR</string>
+        <string>WWALL3.SPR</string>
+        <string>WWALL4.SPR</string>
+        <string>WWALL5.SPR</string>
+        <string>WWALL6.SPR</string>
+        <string>WWALL7.SPR</string>
+        <string>WWALL8.SPR</string>
+        <string>WWALL9.SPR</string>
+        <string>WWALL10.SPR</string>
+        <string>WWALL11.SPR</string>
+        <string>WWALL12.SPR</string>
+        <string>WWALL13.SPR</string>
+        <string>WWALL14.SPR</string>
+        <string>WWALL15.SPR</string>
+        <string>WOBJECTS.SPR</string>
+        <string>WRADAR24.SPR</string>
+        <string>WRADAR31.SPR</string>
+        <string>WRADAR32.SPR</string>
+        <string>WRADAR33.SPR</string>
+        <string>WRADAR34.SPR</string>
+        <string>WRADAR41.SPR</string>
+        <string>WRADAR42.SPR</string>
+        <string>WRADAR43.SPR</string>
+        <string>WRADAR44.SPR</string>
+        <string>WRADAR51.SPR</string>
+        <string>WRADAR52.SPR</string>
+        <string>WRADAR11.SPR</string>
+        <string>WRADAR12.SPR</string>
+        <string>WRADAR13.SPR</string>
+        <string>WRADAR14.SPR</string>
+        <string>WRADAR21.SPR</string>
+        <string>WRADAR22.SPR</string>
+        <string>WRADAR23.SPR</string> 
+      </Sprites>
+    </Palette>
+    <Palette>
+      <src>SFLOOR.IMG</src>
+      <Sprites>
+        <string>SWALL1.SPR</string>
+        <string>SWALL2.SPR</string>
+        <string>SWALL3.SPR</string>
+        <string>SWALL4.SPR</string>
+        <string>SWALL5.SPR</string>
+        <string>SWALL6.SPR</string>
+        <string>SWALL7.SPR</string>
+        <string>SWALL8.SPR</string>
+        <string>SWALL9.SPR</string>
+        <string>SWALL10.SPR</string>
+        <string>SWALL11.SPR</string>
+        <string>SWALL12.SPR</string>
+        <string>SWALL13.SPR</string>
+        <string>SWALL14.SPR</string>
+        <string>SWALL15.SPR</string>
+        <string>SOBJECTS.SPR</string>
+      </Sprites>
+    </Palette>
+    <Palette>
+      <src>PFLOOR.IMG</src>
+      <Sprites>
+        <string>PWALL1.SPR</string>
+        <string>PWALL2.SPR</string>
+        <string>PWALL3.SPR</string>
+        <string>PWALL4.SPR</string>
+        <string>PWALL5.SPR</string>
+        <string>PWALL6.SPR</string>
+        <string>POBJECT1.SPR</string>
+        <string>POBJECT2.SPR</string>
+        <string>POBJECT3.SPR</string>
+        <string>POBJECT4.SPR</string>
+        <string>POBJECT5.SPR</string>
+        <string>POBJECT6.SPR</string>
+        <string>POBJECT7.SPR</string>
+        <string>POBJECT8.SPR</string>
+        <string>POBJECT9.SPR</string>
+
+
+      </Sprites>
+    </Palette>
+    <Palette>
+      <src>KFLOOR.IMG</src>
+      <Sprites>
+        <string>KWALL.SPR</string>
+        <string>KWALL0.SPR</string>
+        <string>KWALL1.SPR</string>
+        <string>KWALL2.SPR</string>
+        <string>KWALL3.SPR</string>
+        <string>KWALL4.SPR</string>
+        <string>KWALL5.SPR</string>
+        <string>KWALL6.SPR</string>
+        <string>KWALL7.SPR</string>
+        <string>KWALL8.SPR</string>
+        <string>KWALL9.SPR</string>
+        <string>KWALL10.SPR</string>
+        <string>KWALL11.SPR</string>
+        <string>KWALL12.SPR</string>
+        <string>KWALL13.SPR</string>
+        <string>KWALL14.SPR</string>
+        <string>KWALL15.SPR</string>
+        <string>KOBJECTS.SPR</string>
+
+        
+      </Sprites>
+    </Palette>
+    <Palette>
+      <src>JFLOOR.IMG</src>
+      <Sprites>
+        <string>JWALL1.SPR</string>
+        <string>JWALL2.SPR</string>
+        <string>JWALL3.SPR</string>
+        <string>JWALL4.SPR</string>
+        <string>JWALL5.SPR</string>
+        <string>JWALL6.SPR</string>
+        <string>JWALL7.SPR</string>
+        <string>JWALL8.SPR</string>
+        <string>JWALL9.SPR</string>
+        <string>JWALL10.SPR</string>
+        <string>JWALL11.SPR</string>
+        <string>JWALL12.SPR</string>
+        <string>JWALL13.SPR</string>
+        <string>JWALL14.SPR</string>
+        <string>JWALL15.SPR</string>
+        <string>JOBJECTS.SPR</string>
+ 
+      </Sprites>
+    </Palette>
+  </PaletteMappings>
+ 
+</Config>
